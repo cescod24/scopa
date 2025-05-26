@@ -2,6 +2,7 @@
 HTML/JS based famous italian card game: "Scopa"
 
 #ITA
+Per giocare, aprire la cartella "scopa(def)" e aprire il file "scopa.html".
 Le istruzioni del gioco sono presenti sulla pagina. Ho lasciato alcuni commenti per capire meglio il codice JS.
 Il bot l'ho programmato sulla base delle mie conoscenze del gioco della scopa, ragionando su cosa avvantaggia e svantaggia l'avversario o te stesso.
 Ho creato 4 livelli del bot, con il quarto livello che ha la peculiarità di ragionare in base alla mano dell'avversario: il bot livello 4
@@ -24,6 +25,7 @@ fdozio@outlook.com
 Buon divertimento!!!
 
 #ENG
+In order to play, open "scopa(def)" folder, then open "scopa.html".
 The instructions for the game are on the page. I left some comments to better understand the JS code.
 I programmed the bot based on my knowledge of the game of "scopa", reasoning about what advantages and disadvantages the opponent or yourself.
 I created 4 levels of the bot, with the fourth level having the peculiarity of reasoning based on the opponent's hand: the bot level 4
