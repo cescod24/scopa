@@ -1,0 +1,7 @@
+<div id="mano1" class="mani"> </div>
+
+			<div id="tavolo"></div>
+
+			<button id="yourButton">prendi o posiziona le carte</button>
+
+			<div id="mano0" class="mani"> </div>

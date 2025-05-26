@@ -1,0 +1,68 @@
+body {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 98vh;
+    flex-wrap: nowrap;
+    background: no-repeat url("./assets/table_background.jpg") fixed;
+    background-size: cover;
+}
+
+#titolo {
+
+    font: 40px Georgia, monospace;
+    border: 10px black solid;
+    color: red;
+}
+
+#startButton {
+
+    font: 40px Georgia, monospace;
+}
+
+#regolamento {
+
+    font: 40px Georgia, monospace;
+    
+}
+
+#botLevel {
+    
+    font: 25px Georgia, serif;
+}
+
+#level {
+    font: 25px Georgia, serif;
+}
+
+#assoDiCesco {
+    font: 25px Georgia, serif;
+}
+
+#regolamentoPage {
+
+    font: 30px Georgia, serif
+}
+
+#assoDiCescoRule {
+
+    font: 20px Georgia, serif
+}
+
+#assoCesco {
+    font: 25px Georgia, serif;
+}
+
+#comeSiGioca {
+
+    font: 25px Georgia, serif;
+    text-align: center;
+    color: red;
+}
+
+#mainMenuButton {
+    font: 25px Georgia, serif;
+}
+
+/*   Copyright © 2024 Francesco Dozio    */
