@@ -37,7 +37,7 @@ I added the "Cesco's ace" variant, which would be the ace of swords, for the mer
 If you want to test the bots, I have left in a program (which is practically identical to the regular one) that allows bots to clash.
 You simply define the variables "botZeroLevel" and "botOneLevel" with the level of the bots to be clashed: botZero would be "You" and botOne 
 "Opponent." To play the game, you have to choose the level via the above variables and start the game and when you start the game, the bots will play until
-at the conclusion of the game.
+the end of the game.
 
 For further information and/or if you encounter a bug, don't hesitate to contact me at:
 Francesco Dozio, 
